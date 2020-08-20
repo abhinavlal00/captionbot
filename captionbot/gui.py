@@ -5,13 +5,6 @@ Created on Thu Aug 20 11:28:42 2020
 @author: ABHINAV
 """
 
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Aug 20 08:34:13 2020
-
-@author: ABHINAV
-"""
-
 import tensorflow
 import gtts
 from kivy.app import App
